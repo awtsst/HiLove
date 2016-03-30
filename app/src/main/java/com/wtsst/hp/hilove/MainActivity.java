@@ -10,7 +10,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
-    private String name = "wtsstlove";
+    private String name = "wtsstlove1314";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
