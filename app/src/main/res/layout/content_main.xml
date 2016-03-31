@@ -14,6 +14,14 @@
 
     <TextView
         android:layout_width="wrap_content"
+        android:id="@+id/tx1"
         android:layout_height="wrap_content"
-        android:text="Hi WtLove" />
+        android:text="Hi WtLove new project" />
+    <TextView
+        android:id="@+id/tx2"
+        android:layout_below="@+id/tx1"
+        android:layout_marginTop="18dp"
+        android:layout_width="wrap_content"
+        android:text="@string/my_url"
+        android:layout_height="wrap_content" />
 </RelativeLayout>
